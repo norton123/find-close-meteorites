@@ -9,4 +9,4 @@ python find-meteors.py
 
 First install pipenv : pipenv install
 
-Then run: pipenv run python find-meteors.py
+Then run: pipenv run python meteors/find-meteors.py
